@@ -36,5 +36,5 @@ jobs:
           comment-summary-in-pr: always
           fail-on-severity: moderate
           deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later
-          warn-on-openssf-scorecard-level: 2
+          warn-on-openssf-scorecard-level: 4
         #   retry-on-snapshot-warnings: true
