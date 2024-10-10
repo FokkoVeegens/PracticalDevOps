@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.Encodings.Web;
+using System.Net;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
@@ -382,7 +383,7 @@ namespace PartsUnlimited.Controllers
             var model = new EnableAuthenticatorViewModel
             {
                 SharedKey = FormatKey(unformattedKey),
-                AuthenticatorUri = GenerateQrCodeUri(user.Email, unformattedKey)
+                AuthenticatorUri = WebUtility.HtmlEncode(GenerateQrCodeUri(user.Email, unformattedKey))
             };
 
             return View(model);
