@@ -18,7 +18,7 @@ in between.
 
 ### Step #1
 
-In VSTS, edit the release definition created in a previous lab. The template has a single Environment.
+In VSTS, edit the release definition created in the previous lab. The template has a single Environment.
 
 > An **Environment** is simply a logical grouping of tasks - it may or may not correspond to a set of machines.
 For this Release Definition, you will create 3 Environments: **dev**, **dtaging** and **production**.
