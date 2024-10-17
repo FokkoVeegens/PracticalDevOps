@@ -39,9 +39,9 @@ During this exercise you will explore how to
 
 #### Task #3. Planning our first sprint
 
-In this task we will select a number of the items from the Backlog for our first sprint.
+In this task we will select a number of items from the Backlog for our first sprint.
 We will do a short planning exercise to highlight the agile planning features of VSTS. 
-This time, besides looking at the sprint backlog and (task) board, we will look at the managing the capacity of our sprint.
+This time, besides looking at the sprint backlog and (task) board, we will look at managing the capacity of our sprint.
 
 We will close this lab with a short overview of related features, like work item queries, delivery plans and a first look at the dashboard functionality.
 During the various labs please go back to the your dashboard and update it so that it presents the status of the items we have delivered.
