@@ -7,7 +7,7 @@ In this lab we will setup the VSTS Team Project to manage the backlog items and 
 
 #### Task #1. Configure the Team Project for Agile Planning
 
-In this task, you will first configure or prepare the VSTS Team Project to manage the backlog items.
+In this task, you will configure or prepare the VSTS Team Project to manage the backlog items.
 In the project setting of our Team Project we will first configure the sprint schedule (iterations) and areas used in the project.
 We will use only one team in this project, but VSTS allows you to add multiple teams to your project, so that can scale your agile project.
 
