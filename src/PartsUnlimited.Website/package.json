@@ -15,7 +15,7 @@
     "grunt-contrib-concat": "2.1.0",
     "grunt-contrib-copy": "1.0.0",
     "grunt-contrib-uglify": "5.2.2",
-    "grunt-sass": "^3.1.0",
+    "grunt-sass": "^4.0.0",
     "gzip-size": "7.0.0",
     "latest-version": "^9.0.0",
     "npmconf": "2.1.3",
