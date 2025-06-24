@@ -7,7 +7,7 @@
     "bower-registry-client": "^1.0.0",
     "cli-color": "2.0.4",
     "combined-stream": "1.0.8",
-    "end-of-stream": "1.4.4",
+    "end-of-stream": "1.4.5",
     "es6-weak-map": "^2.0.3",
     "form-data": "^4.0.0",
     "grunt": "1.6.1",
