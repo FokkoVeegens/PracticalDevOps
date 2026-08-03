@@ -10,7 +10,7 @@
     "end-of-stream": "1.4.5",
     "es6-weak-map": "^2.0.3",
     "form-data": "^4.0.0",
-    "grunt": "1.6.2",
+    "grunt": "1.6.3",
     "grunt-bower-task": "0.6.2",
     "grunt-contrib-concat": "2.1.0",
     "grunt-contrib-copy": "1.0.0",
